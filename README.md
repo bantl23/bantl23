@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bantl23
 - 👀 I’m interested in running, reading, outdoors
 - 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on rust, golang, aws, kubernetes, docker projects
+- 💞️ I’m looking to collaborate on rust, golang, aws, kubernetes, container projects
 - 📫 How to reach me twitter @bantl23
 
 <!---
